@@ -49,7 +49,7 @@ Exit: Exit the application.
 
 tasks.pkl: The file where tasks are stored.
 
-todo_list_app.py: The main Python script for the application.
+todo_list.py: The main Python script for the application.
 
 
 
